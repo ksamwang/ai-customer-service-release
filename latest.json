@@ -10,7 +10,7 @@
   "localService": {
     "version": "0.1.0",
     "url": "https://ksamwang.github.io/ai-customer-service-release/local-service/0.1.0/local-service.exe",
-    "sha256": "a4c2a6187667ca8ba79c4400b6eee242776c98442db4e644d85cf0ddcb7b1f3e",
+    "sha256": "1a091093d6a8ea8f1e6d621ef42ea6daf8b1a16fb0a28d48a36f22e0c300595e",
     "requiredDesktopVersion": "0.1.0"
   }
 }
