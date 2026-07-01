@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "notes": "当前已是最新版本",
+  "frontend": {
+    "version": "0.1.0",
+    "url": "",
+    "sha256": "",
+    "requiredDesktopVersion": "0.1.0"
+  },
+  "localService": {
+    "version": "0.1.0",
+    "url": "",
+    "sha256": "",
+    "requiredDesktopVersion": "0.1.0"
+  }
+}
