@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "notes": "鍙戠幇缁勪欢鏇存柊",
+  "notes": "Component update available",
   "frontend": {
     "version": "0.1.0",
     "url": "https://ksamwang.github.io/ai-customer-service-release/frontend/0.1.0/frontend.asar",
@@ -10,7 +10,7 @@
   "localService": {
     "version": "0.1.0",
     "url": "https://ksamwang.github.io/ai-customer-service-release/local-service/0.1.0/local-service.exe",
-    "sha256": "15defed4963ceab345eaf0db264a445fcf6eb0f2b8a5de37d81da3965cd38161",
+    "sha256": "a4c2a6187667ca8ba79c4400b6eee242776c98442db4e644d85cf0ddcb7b1f3e",
     "requiredDesktopVersion": "0.1.0"
   }
 }
