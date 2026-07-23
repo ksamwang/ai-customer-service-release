@@ -1,16 +1,16 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "notes": "Component update available",
   "frontend": {
-    "version": "2.1.0",
-    "url": "https://ksamwang.github.io/ai-customer-service-release/frontend/2.1.0/frontend.asar",
-    "sha256": "52fe835dda7bc10b5642b053eb639b5c54897ce5c1b07d511824e32e0b3eeaa4",
-    "requiredDesktopVersion": "2.1.0"
+    "version": "2.1.1",
+    "url": "https://ksamwang.github.io/ai-customer-service-release/frontend/2.1.1/frontend.asar",
+    "sha256": "7aa02679a9da9cae78747834e89a9141e96ca536192353e4e055992ad7c4bd76",
+    "requiredDesktopVersion": "2.1.1"
   },
   "localService": {
-    "version": "2.1.0",
-    "url": "https://ksamwang.github.io/ai-customer-service-release/local-service/2.1.0/local-service.exe",
-    "sha256": "a2aff21ecabb560d215db95901fd00ad77c01b5bc195858f6e819e766dbd09ea",
-    "requiredDesktopVersion": "2.1.0"
+    "version": "2.1.1",
+    "url": "https://ksamwang.github.io/ai-customer-service-release/local-service/2.1.1/local-service.exe",
+    "sha256": "3428279f73cc58eba8f2107b578ba592f7a463ea72ee3dc1c0034a2a9d5fcc4a",
+    "requiredDesktopVersion": "2.1.1"
   }
 }
